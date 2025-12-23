@@ -1,0 +1,5 @@
+{
+  "name": "디라이트 2관 지출 대시보드",
+  "description": "A high-performance dashboard that visualizes Google Sheets data with real-time AI insights using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
